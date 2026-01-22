@@ -35,6 +35,7 @@ Hald Group is new company into technology market that has several obstacles duri
 <br> <br>
 
 **Images of Dashboard**
+
 <br>
 
 ![First page of dashboard talked about number of employees](img/first_page.png)
@@ -61,6 +62,7 @@ Hald Group is new company into technology market that has several obstacles duri
 - 'Python' -> Google Colab.
 - 'SQL' -> SQLLite -> DB Browser for SQLLite.
 - 'Power BI'.
+- 'Excel' -> to modify data, gather how third section employees repeated into the dataset.
 
 <br>
 
