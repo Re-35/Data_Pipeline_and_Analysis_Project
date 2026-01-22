@@ -36,16 +36,21 @@ Hald Group is new company into technology market that has several obstacles duri
 
 **Images of Dashboard**
 <br>
-![First page of dashboard talked about number of employees](./img/first_page.png")
+
+![First page of dashboard talked about number of employees]("img/first_page.png")
 
 <br>
-![Second page of dashboard talked about finance related to HR, salary and bonuses](./img/second_page.png)
+
+![Second page of dashboard talked about finance related to HR, salary and bonuses]("/img/second_page.png")
 
 <br>
-![Second page of dashboard with tooltip](./img/tooltip.png)
+
+![Second page of dashboard with tooltip]("/img/tooltip.png")
 
 <br>
-![Second page of dashboard with filter](./img/filter.png)
+
+![Second page of dashboard with filter]("/img/filter.png")
+
 <br><br>
 
 ---
@@ -74,9 +79,9 @@ Hald Group is new company into technology market that has several obstacles duri
 
 ## Data Resources 
 
-- Employees database sample - [GitHub](https://github.com/profolsen/employees/blob/master/sql/employees.sql)
+- Employees database sample - [GitHub]("https://github.com/profolsen/employees/blob/master/sql/employees.sql")
 - Fake data inserted into second database by Gemini.
-- CSV file from [Kaggle](https://www.kaggle.com/datasets/iqmansingh/company-employee-dataset)
+- CSV file - [Kaggle]("https://www.kaggle.com/datasets/iqmansingh/company-employee-dataset")
 
 
 
