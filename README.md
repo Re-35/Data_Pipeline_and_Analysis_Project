@@ -35,16 +35,17 @@ Hald Group is new company into technology market that has several obstacles duri
 <br> <br>
 
 **Images of Dashboard**
-![First page of dashboard talked about number of employees](https://image2url.com/r2/default/images/1769104048712-6882a49b-cc5e-4b1a-b5d7-a71fcc5dde56.jpeg)
+<br>
+![First page of dashboard talked about number of employees](./img/first_page.png")
 
 <br>
-![Second page of dashboard talked about finance related to HR, salary and bonuses](https://image2url.com/r2/default/images/1769105157806-672220b2-e49c-4086-9706-727977bd99fe.jpeg)
+![Second page of dashboard talked about finance related to HR, salary and bonuses](./img/second_page.png)
 
 <br>
-![Second page of dashboard with tooltip](https://image2url.com/r2/default/images/1769105267067-89434734-023d-4129-9a3b-4cde23366201.jpeg)
+![Second page of dashboard with tooltip](./img/tooltip.png)
 
 <br>
-![Second page of dashboard with filter](https://image2url.com/r2/default/images/1769105325994-a3edfe20-6a4b-41f5-8876-42ca8cec1cf2.jpeg)
+![Second page of dashboard with filter](./img/filter.png)
 <br><br>
 
 ---
