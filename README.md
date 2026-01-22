@@ -72,7 +72,7 @@ Hald Group is new company into technology market that has several obstacles duri
 ## Project Files Uploaded
 - Data pipeline process (ETL) into '.ipynb' file.
 - Power BI dashboard into '.pbix' file.
-- SQL databases into '.db' files.
+- SQL databases into '.sql' files.
 
 <br>
 
